@@ -1,0 +1,6 @@
+*.beam
+deps
+rel/phoebus
+*.dump
+rebar
+dev
